@@ -37,7 +37,7 @@ public class MainActivity extends ActionBarActivity {
     private DownloadManager mDownloadManager;
     private long mDownloadId;
 
-    private String mGroupTitle = "31C3";
+    private String mGroupTitle = "CCC Event";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
